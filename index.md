@@ -16,7 +16,7 @@ permalink: index.ru.html
 	<td>
 		<img src="/~ulysses/Pics/Brazil-2014.jpg" height="250" valign border="0" />
 	</td>
-	<td valign="top">
+	<td valign="top" markdown="1">
 
 		**Год и место рождения:** 1986, Ростов-на-Дону, Россия.
 
