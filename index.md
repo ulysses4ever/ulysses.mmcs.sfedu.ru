@@ -3,7 +3,7 @@ layout: default
 title: Пеленицын Артём Михайлович, домашняя страница
 permalink: index.ru.html
 ---
-<div align="right">
+<div align="right"> 
 	<small>
 		<a href="{{ site.baseurl }}index.en.html">
 			In English <img src="/~ulysses/Pics/en.png" />
