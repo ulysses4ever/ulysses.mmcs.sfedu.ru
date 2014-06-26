@@ -5,7 +5,7 @@ permalink: index.ru.html
 ---
 <div align="right">
 	<small>
-		<a href="{{% site.baseurl %}}index.en.html">
+		<a href="{{ site.baseurl }}index.en.html">
 			In English <img src="/~ulysses/Pics/en.png" />
 		</a>
 	</small>
@@ -25,7 +25,7 @@ permalink: index.ru.html
 
 		**Текущая деятельность:** ассистент кафедры информатики и вычислительного эксперимента Мехмата ЮФУ, преподаватель Воскресной компьютерной школы.
 
-		**e-mail:** ![e-mail]({{% site.baseurl %}}/~ulysses/Pics/mail.png)
+		**e-mail:** ![e-mail](/~ulysses/Pics/mail.png)
 	</td>
 </table>
 
