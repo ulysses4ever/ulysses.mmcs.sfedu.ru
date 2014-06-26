@@ -16,12 +16,17 @@ permalink: index.ru.html
 	<td>
 		<img src="/~ulysses/Pics/Brazil-2014.jpg" height="250" valign border="0" />
 	</td>
-	<td valign="top">
-	  {% capture bio %}
-		{% include bio.md %}
-	  {% endcapture %}
-	  {{ bio | markdownify }}	
-	</td>
+	<td valign="top"><div markdown="1">
+**Год и место рождения:** 1986, Ростов-на-Дону, Россия.
+
+**Образование:** магистр прикладной математики и информатики — 2009.
+
+**Alma mater:** [Южный федеральный университет](http://sfedu.ru/), факультет математики, механики и комьютерных наук ([Мехмат](http://mmcs.sfedu.ru/)).
+
+**Текущая деятельность:** ассистент кафедры информатики и вычислительного эксперимента Мехмата ЮФУ, преподаватель [Воскресной компьютерной школы](http://sunschool.mmcs.sfedu.ru/).
+
+**e-mail:** ![e-mail](/~ulysses/Pics/mail.png)
+	</div></td>
 </table>
 
 * [Curriculum Vitæ \[PDF\]](/~ulysses/cv.pdf)
