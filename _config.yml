@@ -8,7 +8,6 @@ permalink:        pretty
 # Setup
 title:            Пеленицын Артём Михайлович
 tagline:          Домашняя страница
-paginate:         1
 baseurl:          /~ulysses/new/
 author:
   name:           Артём Пеленицын
