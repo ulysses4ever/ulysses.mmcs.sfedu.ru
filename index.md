@@ -3,7 +3,7 @@ layout: default
 title: Пеленицын Артём Михайлович, домашняя страница
 permalink: index.ru.html
 ---
-<div align="right"><small><a href="{{ site.baseurl }}index.en.html">In English <img src="/~ulysses/Pics/en.png" /></a></small></div>
+<div align="right"><small><a href="{{% site.baseurl %}}index.en.html">In English <img src="/~ulysses/Pics/en.png" /></a></small></div>
 <table cellspacing="6px">
 	<tr>
 	<td width="25%">
@@ -18,16 +18,13 @@ permalink: index.ru.html
 
 **Текущая деятельность:** ассистент кафедры информатики и вычислительного эксперимента Мехмата ЮФУ, преподаватель Воскресной компьютерной школы.
 
-**e-mail:** ![e-mail]({{% site.baseurl %}}/~ulysses/Pics/mail.png)	
+**e-mail:** ![e-mail]({{% site.baseurl %}}/~ulysses/Pics/mail.png)
 </td>
 </table>
-<ul>
-	<!--li><a href="Edu/qual-projects-2011.pdf">Проекты квалификационных работ 2011</a></li-->
-	<li><a href="/~ulysses/cv.pdf">Curriculum Vitæ [PDF]</a></li>
-	<li><a href="/~ulysses/papers.html">Публикации, выступления, etc.</a></li>
-	<li><a href="/~ulysses/teaching">Преподавание</a></li>
-	<li><a href="/~ulysses/timetable.html">Расписание занятий на мехмате</a></li>
-	<!--li><a href="timetable.html">Расписание</a></li-->
-	<li><a href="/~ulysses/projects">Проекты</a></li>
-	<li><a href="/~ulysses/links.html">Ссылки</a></li>
-</ul>
+
+* [Curriculum Vitæ \[PDF\]](/~ulysses/cv.pdf)
+* [Публикации, выступления, etc.](/~ulysses/papers.html)
+* [Преподавание](/~ulysses/teaching)
+* [Расписание занятий на мехмате](/~ulysses/timetable.html)
+* [Проекты](/~ulysses/projects)
+* [Ссылки в соцсетях](/~ulysses/links.html)
