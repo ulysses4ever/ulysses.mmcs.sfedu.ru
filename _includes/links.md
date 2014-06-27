@@ -1,0 +1,6 @@
+* [Curriculum Vitæ \[PDF\]](/~ulysses/cv.pdf)
+* [Публикации, выступления, etc.](/~ulysses/papers.html)
+* [Преподавание](/~ulysses/teaching)
+* [Расписание занятий на мехмате](/~ulysses/timetable.html)
+* [Проекты](/~ulysses/projects)
+* [Ссылки в соцсетях](/~ulysses/links.html)
