@@ -16,10 +16,10 @@ permalink: index.ru.html
 	<td style="vertical-align:top">
 		<img src="/~ulysses/Pics/Brazil-2014.jpg" height="250" valign border="0" />
 	</td>
-	<td valign="top"><div markdown="1">
-{% capture bio %}{% include bio.md %}{% endcapture %}
-{{ bio | markdownify }}
-	</div></td>
+	<td valign="top">
+		{% capture bio %}{% include bio.md %}{% endcapture %}
+		{{ bio | markdownify }}
+	</td>
 </table>
 
 {% capture links %}{% include links.md %}{% endcapture %}
