@@ -21,3 +21,6 @@ permalink: index.ru.html
 {{ bio | markdownify }}
 	</div></td>
 </table>
+
+{% capture links %}{% include links.md %}{% endcapture %}
+{{ links | markdownify }}
