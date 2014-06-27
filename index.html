@@ -6,7 +6,7 @@ permalink: index.ru.html
 <div align="right"> 
 	<small>
 		<a href="{{ site.baseurl }}index.en.html">
-			In English <img src="/~ulysses/Pics/en.png" />
+			In English <img src="{{ site.baseurl }}Pics/en.png" />
 		</a>
 	</small>
 </div>
@@ -17,10 +17,12 @@ permalink: index.ru.html
 		<img src="{{ site.mypic }}" height="250" valign border="0" />
 	</td>
 	<td valign="top">
+		{% comment %} include bio from extern file in markdown: {% endcomment %}
 		{% capture bio %}{% include bio.md %}{% endcapture %}
 		{{ bio | markdownify }}
 	</td>
 </table>
 
+{% comment %} include bio from extern file in markdown: {% endcomment %}
 {% capture links %}{% include links.md %}{% endcapture %}
 {{ links | markdownify }}

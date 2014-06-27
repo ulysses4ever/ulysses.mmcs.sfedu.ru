@@ -6,4 +6,4 @@
 
 **Текущая деятельность:** ассистент кафедры информатики и вычислительного эксперимента Мехмата ЮФУ, преподаватель [Воскресной компьютерной школы](http://sunschool.mmcs.sfedu.ru/).
 
-**e-mail:** ![e-mail](/~ulysses/Pics/mail.png)
+**e-mail:** ![e-mail]({{ site.baseurl }}Pics/mail.png)
