@@ -4,6 +4,7 @@ title: Преподавание
 permalink: teaching.ru.html
 ---
 ## Преподавание
+
 ### Руководство студентами
 
 *   Туляков А.Ю. «Поддержка PascalABC.NET в Eclipse IDE», 2014 [[текст: pdf]](Edu/tutoring/Tuliakov-2014/text.pdf), [[слайды: pdf]](Edu/tutoring/Tuliakov-2014/slides.pdf)
