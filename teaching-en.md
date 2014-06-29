@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-en
 title: Teaching
 permalink: teaching.en.html
 ---
