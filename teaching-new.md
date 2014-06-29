@@ -3,7 +3,7 @@ layout: default
 title: Преподавание
 permalink: teaching-new.ru.html
 ---
-## Преподавание
+## Преподавание 
 
 ### Руководство студентами
 
