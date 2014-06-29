@@ -4,4 +4,4 @@
 * [Преподавание]({{ site.baseurl }}teaching.ru.html)
 * [Расписание занятий на мехмате]({{ site.baseurl }}timetable.html)
 * [Проекты]({{ site.baseurl }}projects.ru.html)
-* [Ссылки в соцсетях]({{ site.baseurl }}links.html)
+* [Ссылки в соцсетях]({{ site.baseurl }}links.html) 
