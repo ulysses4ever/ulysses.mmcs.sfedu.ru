@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Публикации, выступления, etc.
+title: Проекты
 permalink: projects.ru.html
 ---
-## Проекты
+## Программные проекты
 
 *   [cpp-mv-poly](http://code.google.com/p/cpp-mv-poly/) — реализация многочленов многих переменных и BMS-алгоритма;
 
@@ -12,3 +12,9 @@ permalink: projects.ru.html
 *   [mmcs-entrance-2010](http://code.google.com/p/mmcs-entrance-2010/) — программа генерации диаграмм (формат PNG) заявлений абитуриентов ЮФУ по данным ЦПК (формат XLS) в 2010 году.
 
 *   [lj-comments-notifier](http://code.google.com/p/lj-comments-notifier/) — утилита для получения информации о новых комментариях к сообщениям на сервисе livejournal.com. 
+
+## «Типографические» проекты (LaTeX)
+
+* [sfedu_umk](https://github.com/ulysses4ever/sfedu_umk) — латех-шаблон для УМК/РПД в Южном федеральном университете.
+
+* [comp-arch-labs-text-2014](https://bitbucket.org/Ulysses4ever/comp-arch-labs-text-2014/overview) — методичка по курсу Архитектуры компьютера в версии 2014-го года.
