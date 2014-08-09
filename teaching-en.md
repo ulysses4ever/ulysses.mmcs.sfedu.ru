@@ -7,7 +7,7 @@ permalink: teaching.en.html
 
 ### Tutoring
 
-* Tuliakov A.U. Support for [PascalABC.NET](http://pascalabc.net/en/) in Eclipse IDE / BSc. in CS
+* Tulyakov A.U. Support for [PascalABC.NET](http://pascalabc.net/en/) in Eclipse IDE / BSc. in CS [[text: rus / pdf]](Edu/tutoring/Tulyakov-2014/text.pdf), [[slides: rus / pdf]](Edu/tutoring/Tulyakov-2014/slides.pdf)
 
 ### Courses given
 

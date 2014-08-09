@@ -7,7 +7,7 @@ permalink: teaching.ru.html
 
 ### Руководство студентами
 
-*   Туляков А.Ю. «Поддержка PascalABC.NET в Eclipse IDE», 2014 [[текст: pdf]](Edu/tutoring/Tuliakov-2014/text.pdf), [[слайды: pdf]](Edu/tutoring/Tuliakov-2014/slides.pdf)
+*   Туляков А.Ю. «Поддержка PascalABC.NET в Eclipse IDE», 2014 [[текст: pdf]](Edu/tutoring/Tulyakov-2014/text.pdf), [[слайды: pdf]](Edu/tutoring/Tulyakov-2014/slides.pdf)
 
 ### Учебные курсы
 
