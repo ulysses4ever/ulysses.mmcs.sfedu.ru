@@ -16,6 +16,6 @@ permalink: index.ru.html
 	</td>
 </table>
 
-{% comment %} include bio from extern file in markdown: {% endcomment %}
+{% comment %} include links from extern file in markdown: {% endcomment %}
 {% capture links %}{% include links.md %}{% endcapture %}
 {{ links | markdownify }}
