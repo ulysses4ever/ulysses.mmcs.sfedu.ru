@@ -134,12 +134,15 @@ permalink: papers.html
 
 *   Программа для ЭВМ: «Декодер для алгеброгеометрических кодов на основе
 	BMS-алгоритма», номер государственной регистрации:
-	[2013618500 от 10.09.2013](Papers/2013-bmsa-decoder-registration.pdf)
+	[2013618500 от 10.09.2013](Papers/2013-bmsa-decoder-registration.pdf);
 
 *   Магистерская диссертация: «BMS-алгоритм и его применение в декодере»
-[[текст: pdf]](Papers/2009-msc-thesis.pdf)
+[[текст: pdf]](Papers/2009-msc-thesis.pdf);
+
+*   Выпускная квалификационная работа бакалавра: «Алгоритм Берлекэмпа—Месси для полей Галуа и его применение»
+[[текст: pdf]](Papers/2007-bsc.pdf), ([[шаблон: doc]](Misc/bsc-template.doc));
 
 *   Реферат: «Философия и методология работ Бурбаки»
 [[текст: pdf]](Papers/2008-10-bourbaki.pdf)
-[[src: 7-zipped tex]](Papers/2008-10-bourbaki.tex.7z)
+[[src: 7-zipped tex]](Papers/2008-10-bourbaki.tex.7z).
 
