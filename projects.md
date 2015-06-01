@@ -17,4 +17,4 @@ permalink: projects.ru.html
 
 * [sfedu_umk](https://github.com/ulysses4ever/sfedu_umk) — латех-шаблон для УМК/РПД в Южном федеральном университете.
 
-* [comp-arch-labs-text-2014](https://bitbucket.org/Ulysses4ever/comp-arch-labs-text-2014/overview) — методичка по курсу Архитектуры компьютера в версии 2014-го года.
+* [mmcs_sfedu_thesis](https://github.com/MMCS-SFEDU/mmcs_sfedu_thesis) —  шаблон выпускной работы на Мехмате ЮФУ.
