@@ -61,7 +61,7 @@ permalink: papers.html
 ## Участие в конференциях, стажировках, etc.
 
 * научная конференция «Современные информационные технологии: тенденции и перспективы развития (СИТО 2015)», г. Ростов-на-Дону, 2015 — доклад «Система хранения и публикации текстов заданий в учебной среде Moodle»
-[[слайды: pdf]](Papers/Talks/2015-SITO-Moodle-pulication.pdf)
+[[слайды: pdf]](Papers/Talks/2015-SITO-Moodle-publication.pdf)
 
 *   презентационная программа по межвузовскому научно-техническому сотрудничеству, Бразилия, 19-29 марта 2014 г. — доклад “Computer Science Projects Developed inside (in connection with) Department of Mathematics, Mechanics and Computer Sciences / SFedU”
 [[слайды: pdf]](Papers/Talks/2014-BRICS-University-Forum.pdf)
