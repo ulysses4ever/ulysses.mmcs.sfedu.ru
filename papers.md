@@ -10,7 +10,7 @@ permalink: papers.html
 
 *   Pelenitsyn A. Associated Types and Constraint Propagation for Generic Programming
 in Scala // Programming and Computer Software, 2015, Vol. 41, No. 4,
-pp. 224–230. DOI: 10.1134/S0361768815040064
+pp. 224–230. [DOI: 10.1134/S0361768815040064](https://dx.doi.org/10.1134/S0361768815040064),
 [[e-print: PDF]](Papers/2015-PCS-Scala-generics.pdf)
 
 *   Пеленицын А.М. Методы обобщенного и метапрограммирования
