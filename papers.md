@@ -8,10 +8,9 @@ permalink: papers.html
 
 #### В журналах списка ВАК
 
-*   Pelenitsyn A. Associated Types and Constraint Propagation for Generic Programming
-in Scala // Programming and Computer Software, 2015, Vol. 41, No. 4,
-pp. 224–230. [DOI: 10.1134/S0361768815040064](https://dx.doi.org/10.1134/S0361768815040064),
-[[e-print: PDF]](Papers/2015-PCS-Scala-generics.pdf)
+*   Пеленицын А.М. Ассоциированные типы и распространение ограничений на параметры-типы для обобщённого программирования на Scala // Программирование, 2015, №4, с. 13–22. [[e-print: PDF]](Papers/2015-PCS-Scala-generics-ru.pdf)
+
+    Перевод: Pelenitsyn A. Associated Types and Constraint Propagation for Generic Programming in Scala // Programming and Computer Software, 2015, Vol. 41, No. 4, pp. 224–230. [DOI: 10.1134/S0361768815040064](https://dx.doi.org/10.1134/S0361768815040064), [[e-print: PDF]](Papers/2015-PCS-Scala-generics.pdf)
 
 *   Пеленицын А.М. Методы обобщенного и метапрограммирования
 в программной реализации декодера алгебро-геометрических кодов // Прикл. информатика, 2012, №2(38), с. 60–70.
