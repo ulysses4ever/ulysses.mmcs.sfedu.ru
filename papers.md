@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout: default
 title: Публикации, выступления, etc.
 permalink: papers.html
 ---
