@@ -149,5 +149,6 @@ permalink: papers.html
 
 *   Реферат: «Философия и методология работ Бурбаки»
 [[текст: pdf]](Papers/2008-10-bourbaki.pdf)
-[[src: 7-zipped tex]](Papers/2008-10-bourbaki.tex.7z).
+[[src: 7-zipped tex]](Papers/2008-10-bourbaki.tex.7z);
 
+* [bibtex-файл с научными  публикациями](biblio.bib).
