@@ -47,5 +47,5 @@ permalink: topics.ru.html
 
 #### Дипломные
 
-* Поддержка PascalABC.NET в Eclipse IDE (Алексей Туляков).
+* Поддержка PascalABC.NET в Eclipse IDE (Алексей Туляков), [[файлы](Edu/tutoring/Tulyakov-2014/)].
 
