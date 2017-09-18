@@ -4,6 +4,6 @@
 
 **Alma mater:** [Южный федеральный университет](http://sfedu.ru/), факультет математики, механики и компьютерных наук ([Мехмат](http://mmcs.sfedu.ru/)).
 
-**Текущая деятельность:** ассистент-исследователь [лаборатории языков программирования](http://prl.ccs.neu.edu/) Northeastern University; ассистент [кафедры информатики и вычислительного эксперимента](http://ive.sfedu.ru) Мехмата ЮФУ.
+**Текущая деятельность:** ассистент-исследователь [лаборатории языков программирования](https://prl-prg.github.io) Czech Technical University.
 
-**e-mail:** ![e-mail]({{ site.baseurl }}Pics/mail.png)
+**e-mail:** a.pelenitsyn&#8203;@&#8203;gmail.com
