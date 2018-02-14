@@ -7,15 +7,16 @@ permalink:        pretty
 
 # Setup
 title:            Пеленицын Артём Михайлович
-title-en:		  Artem Pelenitsyn
+title-en:         Artem Pelenitsyn
 tagline:          Домашняя страница
-tagline-en:		  Homepage
+tagline-en:       Homepage
 baseurl:          http://mmcs.sfedu.ru/~ulysses/
 author:
   name:           Артём Пеленицын
   url:            https://twitter.com/ulysses4ever
-  email:          ulysses4ever@gmail.com
+  email:          a.pelenitsyn@gmail.com
 
 # Custom vars
 version:          0.0.1
-mypic:			  /~ulysses/Pics/Brazil-2014.jpg
+mypic:            /~ulysses/Pics/Brazil-2014.jpg
+
