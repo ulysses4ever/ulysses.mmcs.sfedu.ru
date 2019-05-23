@@ -4,6 +4,6 @@
 
 **Alma mater:** [Южный федеральный университет](http://sfedu.ru/), факультет математики, механики и компьютерных наук ([Мехмат](http://mmcs.sfedu.ru/)).
 
-**Текущая деятельность:** ассистент-исследователь [лаборатории языков программирования](https://prl-prg.github.io) Czech Technical University.
+**Текущая деятельность:** аспирант [лаборатории языков программирования](http://prl.ccs.neu.edu) Northeastern University (Boston, USA).
 
 **e-mail:** a.pelenitsyn&#8203;@&#8203;gmail.com
