@@ -1,0 +1,3 @@
+[submodule "Papers"]
+	path = Papers
+	url = git@github.com:ulysses4ever/Papers.git
