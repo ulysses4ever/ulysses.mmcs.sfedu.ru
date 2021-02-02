@@ -3,10 +3,8 @@ type and effect systems, [mathematics of program construction][1]. In the past I
 towards better software engineering principles of building computer algebra software in C++,
 especially using what C++ world knows as _generic programming_. After that, I was working
 on a principled approach to the subtyping relation in the Julia programming language
-(cf. [our OOPSLA'18 publication][2] on that). Right now, I'm researching a mixture of
-control-flow (à la Algol and ML) and data-flow (à la Datalog) approaches to programming
-in a commerical database programming language by [Realtional.AI][rai] implemented 
-on top of Julia.
+(cf. [our OOPSLA'18 publication][2] on that). Right now, I'm studing Julia's
+notion of type stability and its propagation through the package ecosystem.
 
 Here are some links to find out more about my professional interests:
 
