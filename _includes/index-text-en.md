@@ -24,3 +24,4 @@ The links on non-academic works of mine I'm particularly happy about:
 [3]: https://github.com/ghc/ghc/search?o=desc&q=author%3Aulysses4ever&s=committer-date&type=Commits
 [4]: https://www.tweag.io/blog/2019-09-25-bazel-ghc-persistent-worker-internship/
 [rai]: https://www.relational.ai/
+
