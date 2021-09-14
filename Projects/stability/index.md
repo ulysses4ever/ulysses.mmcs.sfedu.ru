@@ -1,6 +1,7 @@
 ---
 layout: default-en
 title: Type Stability in Julia
+baseurl: ../..
 ---
 ## Type Stability in Julia
 #### A. Pelenitsyn, [J. Belyakova][julia], [B. Chung][chung], [R. Tate][ross], [J. Vitek][jan] 
