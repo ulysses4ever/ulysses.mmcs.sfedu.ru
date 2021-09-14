@@ -4,6 +4,7 @@ title: Type Stability in Julia
 baseurl: ../..
 ---
 ## Type Stability in Julia
+### Avoiding Performance Pathologies in JIT Compilation
 #### A. Pelenitsyn, [J. Belyakova][julia], [B. Chung][chung], [R. Tate][ross], [J. Vitek][jan] 
 
 _Abstract_  
