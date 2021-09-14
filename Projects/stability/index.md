@@ -1,11 +1,13 @@
 ---
 layout: default-en
 title: Type Stability in Julia
-baseurl: ../..
 ---
+
 ## Type Stability in Julia
 ### Avoiding Performance Pathologies in JIT Compilation
 #### A. Pelenitsyn, [J. Belyakova][julia], [B. Chung][chung], [R. Tate][ross], [J. Vitek][jan] 
+
+<br />
 
 _Abstract_  
 As a scientific programming language, Julia strives for performance but also provides high-level productivity
@@ -19,16 +21,16 @@ manifest in practice.
 _Resourses_
 
 * Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation
-  [[@ACM]][acmdl] [[preprint]][preprint]
+  [[DOI: 10.1145/3485527]][acmdl] [[preprint]][preprint]
 
-* Extended version of the paper with detailed proofs and more graphs from corypus
+* Extended version of the paper with detailed proofs and more graphs from corpus
   analysis: [[arXiv:2109.01950]][arxiv]
 
 * Artifact measuring stability in Julia packages:
   [[GitHub]][artifact-gh] [[Zenodo]][artifact-zenodo]
 
 
-[preprint]: Papers/2021-julia-type-stability.pdf
+[preprint]: ../../Papers/2021-julia-type-stability.pdf
 [acmdl]: https://doi.org/10.1145/3485527
 [arxiv]: https://arxiv.org/abs/2109.01950
 [artifact-gh]: https://github.com/prl-julia/julia-type-stability

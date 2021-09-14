@@ -1,6 +1,5 @@
-{% assign base = ''
-%}{% assign depth = page.url | remove_first: "|" | split: '/' | join: "/" | split: '/' | size
-%} 
+{% assign base = '' %}
+{% assign depth = page.dir | split: '/' | size %} 
 {% if depth <= 1
 %}{% assign base = '.'
 %}{% elsif depth == 2
