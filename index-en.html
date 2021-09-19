@@ -8,9 +8,16 @@ permalink: index.html
 	<td style="vertical-align:top">
 		<img src="{{ site.mypic }}" height="250" border="0" />
 		<p style="text-align: right">
-		<!-- Facebook Badge START --><a href="https://www.facebook.com/ulysses4ever" target="_TOP" title="Artem Pelenitsyn"><img src="http://badge.facebook.com/badge/100000172753895.2893.1585810356.png" style="border: 0px;" /></a><!-- Facebook Badge END -->
-		<br /><a href="http://www.twitter.com/ulysses4ever"><img src="http://twitter-badges.s3.amazonaws.com/twitter-b.png" alt="Follow me on Twitter"/>
-		</p>
+      <a id="twitter-link" class="icon" title="Twitter Account" aria-label="Twitter Account"
+        href="https://twitter.com/ulysses4ever">
+        <i class="fab fa-twitter"></i></a>
+      <a id="facebook-link" class="icon" title="Facebook Profile" aria-label="Facebook Profile"
+        href="https://www.facebook.com/ulysses4ever">
+        <i class="fab fa-facebook"></i></a>
+      <a id="github-link" class="icon" title="Github Account" aria-label="Github Account"
+        href="https://github.com/ulysses4ever">
+        <i class="fab fa-github"></i></a>
+  	</p>
 	</td>
 	<td valign="top">
 		<p><b>Born:</b> 1986, Rostov-na-Donu, Russia.
@@ -30,8 +37,3 @@ permalink: index.html
 {% capture pubs %}{% include main-pubs-en.md %}{% endcapture %}
 {{ pubs | markdownify }}
 
-<!--/td>
-<td>
-<img src="http://projecteuler.net/profile/ulysses4ever.png" />
-</td><!td>
-</td></tr></table-->
