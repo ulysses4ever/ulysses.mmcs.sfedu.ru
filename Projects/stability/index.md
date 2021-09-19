@@ -5,7 +5,7 @@ title: Type Stability in Julia
 
 ## Type Stability in Julia
 ### Avoiding Performance Pathologies in JIT Compilation
-#### A. Pelenitsyn, [J. Belyakova][julia], [B. Chung][chung], [R. Tate][ross], [J. Vitek][jan] 
+#### A. Pelenitsyn, [J. Belyakova][julia], [B. Chung][chung], [R. Tate][ross], [J. Vitek][jan] (In [OOPSLA '21][oopsla])
 
 <br />
 
@@ -35,6 +35,7 @@ _Resourses_
 [arxiv]: https://arxiv.org/abs/2109.01950
 [artifact-gh]: https://github.com/prl-julia/julia-type-stability
 [artifact-zenodo]: https://zenodo.org/record/5500548
+[oopsla]: https://2021.splashcon.org/details/splash-2021-oopsla/54/Type-Stability-in-Julia-Avoiding-Performance-Pathologies-in-JIT-Compilation
 
 [julia]: https://julbinb.github.io/ 
 [chung]: https://benchung.github.io/
