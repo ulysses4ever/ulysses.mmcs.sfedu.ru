@@ -25,6 +25,8 @@ _Resourses_
 
 * Extended version of the paper with detailed proofs and more graphs from corpus
   analysis: [[arXiv:2109.01950]][arxiv]
+  
+* [Video][video] and [slides][slides] for the OOPSLA presentation
 
 * Artifact measuring stability in Julia packages:
   [[GitHub]][artifact-gh] [[Zenodo]][artifact-zenodo]
@@ -36,6 +38,8 @@ _Resourses_
 [artifact-gh]: https://github.com/prl-julia/julia-type-stability
 [artifact-zenodo]: https://zenodo.org/record/5500548
 [oopsla]: https://2021.splashcon.org/details/splash-2021-oopsla/54/Type-Stability-in-Julia-Avoiding-Performance-Pathologies-in-JIT-Compilation
+[video]: https://youtu.be/XnUDdPonKlU
+[slides]: https://docs.google.com/presentation/d/1MgZLjEIIjFkL49y2bOQ93PCQwKu_B6u00yO_Oz_3gn8/edit?usp=sharing
 
 [julia]: https://julbinb.github.io/ 
 [chung]: https://benchung.github.io/
