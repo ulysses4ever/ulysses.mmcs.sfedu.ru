@@ -1,3 +1,7 @@
+**As a Russian national, I strongly condemn the war started by Russian government in 
+Ukraine on Feb 24th 2022.**  
+
+
 I am interested in typed functional programming and corresponding languages (mostly, Haskell),
 type and effect systems, [mathematics of program construction][1]. In the past I worked
 towards better software engineering principles of building computer algebra software in C++,
