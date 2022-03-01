@@ -1,4 +1,6 @@
-My main publications so far
+#### Main Publications
+
+* [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation][stability] (OOPSLA '21)
 
 *   [Functional Parser of Markdown Language Based on Monad Combining and Monoidal Source Stream Representation][1] (with [G.Lukyanov][Gosha]), TMPA-2017, [doi: 10.1007/978-3-319-71734-0_8][1doi]
 
@@ -12,4 +14,4 @@ My main publications so far
 [2doi]: https://doi.org/10.1134/S0361768815040064
 [3]: Papers/2012-metaprogramming-to-decoding-en.pdf
 [Gosha]: http://geo2a.github.io/ "Georgy Lukyanov web site"
-
+[stability]: Projects/stability

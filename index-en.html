@@ -31,9 +31,19 @@ permalink: index.html
 		<p><b>e-mail:</b> a.pelenitsyn&#8203;@&#8203;gmail.com
 	</td>
 </table>
-{% capture text %}{% include index-text-en.md %}{% endcapture %}
+
+<b>As a Russian national, I strongly condemn the war started by Russian government in 
+Ukraine on Feb 24th 2022.</b>
+
+{% capture text %}{% include index-contact.md %}{% endcapture %}
 {{ text | markdownify }}
 
-{% capture pubs %}{% include main-pubs-en.md %}{% endcapture %}
+{% capture text %}{% include index-academic-en.md %}{% endcapture %}
+{{ text | markdownify }}
+
+{% capture pubs %}{% include index-main-pubs-en.md %}{% endcapture %}
+{{ pubs | markdownify }}
+
+{% capture pubs %}{% include index-pl-en.md %}{% endcapture %}
 {{ pubs | markdownify }}
 
